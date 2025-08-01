@@ -92,3 +92,7 @@ go test -v ./textpatch
 ## References
 
 - [Codex Patch Format Spec](doc/codex_patch_format.md)
+
+## License
+
+This project is licensed under the [European Union Public Licence v1.2 (EUPL)](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
